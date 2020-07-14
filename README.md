@@ -1,16 +1,15 @@
-### Hi there 👋
+## console.log('Hellow world 👋')
 
-<!--
-**ZajithCorro/ZajithCorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Zajith Corro 🤓. I'm a Computer System Engineer 💻 who loves to use web technologies such as React, Firebase, NodeJs, TypeScript and so on. Currently, I'm working as Front-End developer.
 
-Here are some ideas to get you started:
+### Hobbies 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learn about new technologies 👨‍💻 
+- Play videogames 🕹️
+- Collect funko pop figures 📦
+
+### How to get in touch 📫 ✉️
+
+- Sharing my ideas on [Twitter](https://twitter.com/ZaJithCv) 🐦
+- Playing videogames with friends on [Twitch](https://www.twitch.tv/zajithcorro) 🎮
+- Sharing photos and my daily life on [Instagram](https://www.instagram.com/ZajithCv) 📸
