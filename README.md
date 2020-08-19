@@ -1,4 +1,4 @@
-## console.log('Hellow world 👋')
+## console.log('Hello world 👋')
 
 Hi, my name is Zajith Corro 🤓. I'm a Computer System Engineer 💻 who loves to use web technologies such as React, Firebase, NodeJs, TypeScript and so on. Currently, I'm working as Front-End developer.
 
