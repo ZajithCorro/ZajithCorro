@@ -19,4 +19,4 @@ Hi, my name is Zajith Corro 🤓. I'm a Computer System Engineer 💻 who loves 
 - Sharing photos and my daily life on [Instagram](https://www.instagram.com/ZajithCv) 📸
 
 ## 📊 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=zajithcorro)
+![stats](https://github-readme-stats.vercel.app/api?username=zajithcorro&show_icons=true&theme=swift)
