@@ -1,6 +1,12 @@
 # console.log('Hello world 👋')
 
-Hi, my name is Zajith Corro 🤓. I'm a Computer System Engineer 💻 who loves to read and try new technology. Currently, I'm working as Front-End developer.
+Hi, my name is Zajith Corro 🤓. Software Engineer with Computer System Engineer background, specialized in Frontend Development using React framework. I also have experience in Backend Development using technologies such as Nodejs, Python, Express and SQL Server. My goal is reach a high seniority level and this helps me to build amazing projects 🚀
+
+I was part of Platzi Master 💚 C8.
+
+## 🚀 My projects
+
+- [Platzi Master Project](https://github.com/Platzi-Master-C8/gethired-jobplacement-enterprise-Frontend)
 
 ## 💻 Technologies I use
 
@@ -12,11 +18,13 @@ Hi, my name is Zajith Corro 🤓. I'm a Computer System Engineer 💻 who loves 
 - Play videogames 🕹️
 - Collect funko pop figures 📦
 
-## 📫 ✉️ How to get in touch 
+## ✉️ How to get in touch 
 
 - Sharing my ideas on [Twitter](https://twitter.com/ZaJithCv) 🐦
-- Playing videogames with friends on [Twitch](https://www.twitch.tv/zajithcorro) 🎮
-- Sharing photos and my daily life on [Instagram](https://www.instagram.com/ZajithCv) 📸
+- About me [Linkedin](https://www.instagram.com/ZajithCv) 
 
-## 📊 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=zajithcorro&show_icons=true&theme=swift)
+## 📈 My statistics
+<a href="https://github.com/zajithcorro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zajithcorro&theme=material-palenight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zajithcorro&theme=material-palenight&layout=compact" />
+</a>
